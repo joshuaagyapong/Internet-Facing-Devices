@@ -1,5 +1,4 @@
-@@ -1,119 +1,198 @@
-# 🛡️ Threat Hunting Scenario: Public Exposure and Brute-Force Attempts
+
 
 In this project, we simulate a real-world **threat hunting investigation** where critical infrastructure systems (DNS, DHCP, Domain Controllers) were unintentionally exposed to the public internet, resulting in **brute-force login attempts**.
 # 🕵️‍♂️ Threat Hunting Exercise: Detecting Exposed VMs and Brute-Force Logins
